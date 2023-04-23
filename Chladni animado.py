@@ -4,6 +4,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib.animation import FuncAnimation
 
 # Definir el tamaño de la placa
+# hola ferrrr
 Lx, Ly, Lz = 1, 1, 0.01
 
 # Crear la malla de puntos X e Y
