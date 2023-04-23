@@ -1,1 +1,1 @@
-# Patrones-de-Chlandni
+# Patrones de Chlandni
